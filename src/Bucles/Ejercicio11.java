@@ -26,6 +26,8 @@ public class Ejercicio11 {
 			
 		}
 		
+		in.close();
+		
 	}
 
 }

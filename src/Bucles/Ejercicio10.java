@@ -30,6 +30,8 @@ public class Ejercicio10 {
 		 System.out.println(contador);
 		 System.out.println(suma);
 		 System.out.println(mitjana);
+		 
+		 in.close();
 	}
 
 }

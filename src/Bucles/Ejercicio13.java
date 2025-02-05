@@ -25,7 +25,7 @@ public class Ejercicio13 {
 		}
 		
 		System.out.println("Hay " + conP + " numeros positius i " + conN + " negatius");
-		
+		in.close();
 		
 	}
 
